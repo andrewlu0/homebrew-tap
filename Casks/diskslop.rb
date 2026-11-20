@@ -7,7 +7,7 @@ cask "diskslop" do
   desc "Visual disk usage analyzer"
   homepage "https://github.com/andrewlu0/diskslop"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "DiskSlop.app"
 
