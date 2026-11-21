@@ -1,6 +1,6 @@
 cask "diskslop" do
-  version "0.1.5"
-  sha256 "65dab4a49c1dc31a7f68695335f2ecd6188d1a2be77776e03fe89311289838fb"
+  version "0.1.6"
+  sha256 "fd93988e043608bbb182fd802884aeb19c60874e64e6e66cc4ffc70ff0231440"
 
   url "https://github.com/andrewlu0/diskslop/releases/download/v#{version}/DiskSlop.dmg"
   name "DiskSlop"
